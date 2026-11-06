@@ -28,4 +28,20 @@ Write for your team. If someone new joins your team, they should be able to unde
 Explain your project wisely.
 
 -->
-I am a web developer. 
+# I'm Abdul Manan 👋
+
+## 👤 Professional Profile
+Full-stack web developer working with the MERN stack (MongoDB, Express, React, Node.js). My personal projects include **Book Notes**, which displays notes from the books I read, and **Physics Unfolded**, a blog platform where members can create and manage their own posts.
+
+## 🔭 Currently Working On
+- A collection of public APIs. Done so far: URL metadata extractor, unit converter, QR code generator, article extractor and distance calculator
+
+## 🛠️ Tools I Use
+- **Languages:** HTML, CSS, JavaScript, SQL
+- **Frontend:** React, Bootstrap, jQuery, EJS, CSS Flexbox & Grid
+- **Backend:** Node.js, Express.js, Passport.js (authentication)
+- **Databases & Tools:** MongoDB, PostgreSQL, Git & GitHub
+
+## 📫 How to Reach Me
+- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/your-username
