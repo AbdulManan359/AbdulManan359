@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Abdul Manan
 
 <!--
 **AbdulManan359/AbdulManan359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,12 +28,10 @@ Write for your team. If someone new joins your team, they should be able to unde
 Explain your project wisely.
 
 -->
-# I'm Abdul Manan 👋
-
 ## 👤 Professional Profile
 Full-stack web developer working with the MERN stack (MongoDB, Express, React, Node.js). My personal projects include **Book Notes**, which displays notes from the books I read, and **Physics Unfolded**, a blog platform where members can create and manage their own posts.
 
-## 🔭 Currently Working On
+## 🔭 My Work
 - A collection of public APIs. Done so far: URL metadata extractor, unit converter, QR code generator, article extractor and distance calculator
 
 ## 🛠️ Tools I Use
@@ -41,7 +39,3 @@ Full-stack web developer working with the MERN stack (MongoDB, Express, React, N
 - **Frontend:** React, Bootstrap, jQuery, EJS, CSS Flexbox & Grid
 - **Backend:** Node.js, Express.js, Passport.js (authentication)
 - **Databases & Tools:** MongoDB, PostgreSQL, Git & GitHub
-
-## 📫 How to Reach Me
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/your-username
