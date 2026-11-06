@@ -29,7 +29,7 @@ Explain your project wisely.
 
 -->
 ## 👤 Professional Profile
-Full-stack web developer working with the MERN stack (MongoDB, Express, React, Node.js). My personal projects include **Book Notes**, which displays notes from the books I read, and **Physics Unfolded**, a blog platform where members can create and manage their own posts.
+I'm a Full-stack web developer working with the MERN stack (MongoDB, Express, React, Node.js). My personal projects include **Book Notes**, which displays notes from the books I read, and **Physics Unfolded**, a blog platform where members can create and manage their own posts.
 
 ## 🔭 My Work
 - A collection of public APIs. Done so far: URL metadata extractor, unit converter, QR code generator, article extractor and distance calculator
